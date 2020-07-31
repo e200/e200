@@ -3,6 +3,8 @@
 ### Hi there 👋, I'm Eleandro Duzentos (200).
 #### I'm from Angola 🇦🇴, I write code 💻 and sometimes play CoD.
 
+Skills: Dart (Flutter), Javascript (Vue|Node), PHP (Laravel), C# (WPF)...
+
 - 🔭 I’m currently working on Flutter apps
 - 🌱 I’m currently learning Dart & Flutter
 - 💬 Ask me about code, house music and games
