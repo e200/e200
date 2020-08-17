@@ -17,7 +17,7 @@ Skills: Dart (Flutter), Javascript (Vue|Node), PHP (Laravel), C# (WPF)...
 [![Subscribe Youtube](https://img.shields.io/badge/Youtube-Subscribe-informational?style=social&logo=youtube)](https://www.youtube.com/channel/UCdHPUOS_QF3bCPQnd4_zD8w)
 [![Open Telegram](https://img.shields.io/badge/Telegram-Open-informational?style=social&logo=telegram)](https://t.me/qromos)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=e200&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e200&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=e200&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e200&layout=compact&hide_title=true)
 
 ![Profile views](https://gpvc.arturio.dev/e200)
