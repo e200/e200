@@ -18,6 +18,5 @@ Skills: Dart (Flutter), Javascript (Vue|Node), PHP (Laravel), C# (WPF)...
 [![Open Telegram](https://img.shields.io/badge/Telegram-Open-informational?style=social&logo=telegram)](https://t.me/qromos)<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=e200&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e200&layout=compact&theme=graywhite)
 
 ![Profile views](https://gpvc.arturio.dev/e200)
