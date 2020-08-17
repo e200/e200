@@ -11,12 +11,13 @@ Skills: Dart (Flutter), Javascript (Vue|Node), PHP (Laravel), C# (WPF)...
 - ⚡ Fun fact: My last name means Two Hundred 😄
 - 📫 How to reach me: [hi@e200.dev](mailto:hi@e200.dev)
 
-![https://twitter.com/iam_e200](https://img.shields.io/twitter/follow/iam_e200?style=social)
+![Follow Tweeter](https://img.shields.io/twitter/follow/iam_e200?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/e200?style=social)
 ![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=social&logo=linkedin)
 ![Subscribe Youtube](https://www.youtube.com/channel/UCdHPUOS_QF3bCPQnd4_zD8w)
 ![Open Telegram](https://img.shields.io/badge/Telegram-Connect-informational?style=social&logo=telegram)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e200&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=e200&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/e200)
