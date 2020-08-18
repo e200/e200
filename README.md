@@ -13,8 +13,8 @@ Skills: Dart (Flutter), Javascript (Vue|Node), PHP (Laravel), C# (WPF)...
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/iam_e200?style=social)](https://twitter.com/iam_e200)
 [![GitHub followers](https://img.shields.io/github/followers/e200?style=social)](https://img.shields.io/github/followers/e200?style=social)
-[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/iam-e200/)
-[![Subscribe Youtube](https://img.shields.io/badge/Youtube-Subscribe-informational?style=social&logo=youtube)](https://www.youtube.com/channel/UCdHPUOS_QF3bCPQnd4_zD8w)
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/iam-e200/)
+[![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/channel/UCdHPUOS_QF3bCPQnd4_zD8w)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=e200&show_icons=true&theme=graywhite)
 
