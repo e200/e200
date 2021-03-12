@@ -1,9 +1,9 @@
-## First solve the problem. Then write the code.
+## First solve the problem, then write the code.
 
-### Hi there 👋, I'm Eleandro Duzentos (200).
+### Hi there 👋, I'm Eleandro Duzentos (e200).
 #### I'm from Angola 🇦🇴, I write code 💻 and sometimes play CoD.
 
-🔴 Dart (Flutter), Javascript (Vue/Node), PHP (Laravel), C# (WPF)<br>
+🔴 Dart (Flutter), Javascript (Vue/Node), PHP (Laravel), C# (WPF)...<br>
 🟠 I’m currently working on Flutter apps<br>
 🟡 I’m currently learning Dart & Flutter<br>
 🟢 Ask me about code, house music and games<br>
@@ -16,7 +16,6 @@
 [![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/channel/UCdHPUOS_QF3bCPQnd4_zD8w)
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=e200&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/> 
-
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e200&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
 
 ![Profile views](https://gpvc.arturio.dev/e200)
