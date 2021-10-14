@@ -7,7 +7,7 @@
 🟠 I’m currently working on Flutter apps<br>
 🟡 I’m currently learning Dart & Flutter<br>
 🟢 Ask me about code, house music and games<br>
-🔵 Fun fact: My last name means Two Hundred<br>
+🔵 Fun fact: My last name means Two Hundreds<br>
 🟣 How to reach me: [hi@e200.dev](mailto:hi@e200.dev)
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/iam_e200?style=social)](https://twitter.com/iam_e200)
