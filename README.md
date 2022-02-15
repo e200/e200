@@ -5,7 +5,7 @@
 
 🔴 Dart (Flutter), Javascript (Vue/Node), PHP (Laravel), C# (WPF)...<br>
 🟠 I’m currently working on Flutter apps<br>
-🟡 I’m currently learning Dart & Flutter<br>
+🟡 I’m currently learning Dart, Flutter & Go<br>
 🟢 Ask me about code, house music and games<br>
 🔵 Fun fact: My last name means Two Hundreds<br>
 🟣 How to reach me: [hi@e200.dev](mailto:hi@e200.dev)
